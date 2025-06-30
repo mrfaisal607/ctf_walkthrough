@@ -127,8 +127,8 @@ cat root.txt
 
 👤 **Faisal Khan**  
 📂 Cybersecurity Enthusiast | CTF Player | Bug Bounty Hunter  
-🔗 GitHub: [github.com/YOUR_USERNAME](https://github.com/mrfaisal607)  
-🌐 TryHackMe Profile: [tryhackme.com/p/YOUR_USERNAME](https://tryhackme.com/p/mrfaisal0003)
+🔗 GitHub:  [GitHub] (https://github.com/mrfaisal607)  
+🌐 TryHackMe Profile: [my Profile](https://tryhackme.com/p/mrfaisal0003)
 
 ---
 
