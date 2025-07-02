@@ -26,6 +26,7 @@ Welcome to the official repository of **Universe of Hacking** – your one-stop 
 |------------------|-------------|------------|----------------------------------------|
 | Bounty Hacker     | TryHackMe    | Easy       | Basic Linux enumeration, SSH, and privilege escalation |
 | Wakanda 1         | VulnHub      | Easy–Medium| Web exploitation,  recon, and root shell    |
+| 0Day         | TryHackMe     | Easy | Web, Linux, Exploitation, Privilege Escalation    |
 
 Access the walkthroughs in the [ctf_walkthrough](https://github.com/mrfaisal607/ctf_walkthrough/blob/main/ctf_walkthrough) directory.
 
